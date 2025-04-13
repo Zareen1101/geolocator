@@ -1,4 +1,4 @@
-# 🌐 IP Geolocation & Security Scanner
+# 🌐 IP Geolocation Tracker
 
 *A comprehensive network analysis tool* that captures traffic, maps IP locations, and scans for vulnerabilities.
 
