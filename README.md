@@ -13,6 +13,8 @@
 | 📊 Smart Reporting | Generates detailed security assessment reports |
 | 💾 Data Export | Saves all results to CSV for further analysis |
 
+---
+
 ## 🛠 Installation
 
 ### Prerequisites
@@ -31,6 +33,7 @@ cd ip-security-scanner
 # Install dependencies
 pip install -r requirements.txt
 ```
+---
 
 ## ⚙ Configuration
 
@@ -53,6 +56,8 @@ INTERFACE = "Wi-Fi"  # Common options: "Ethernet", "eth0", "en0"
 ```python
 python gelocation_tracker.py
 ```
+
+---
 
 # 🔐 IP Security Scanner
 
@@ -80,6 +85,8 @@ ip,country,city,org,services,vulnerabilities
 8.8.8.8,US,Mountain View,Google LLC,"DNS,HTTPS",0
 1.1.1.1,AU,Sydney,Cloudflare Inc.,"DNS,HTTPS",0
 ```
+
+---
 
 # 🛡 IP SECURITY ASSESSMENT REPORT
 
@@ -111,6 +118,7 @@ ip,country,city,org,services,vulnerabilities
 ---
 
 ## 📝 Notes & Limitations
+---
 
 ### ✅ Permission Requirements
 
@@ -127,10 +135,15 @@ ip,country,city,org,services,vulnerabilities
 IPINFO_LIMIT = 50_000  # requests/month
 SHODAN_LIMIT = 100     # scans/month
 ```
+
 ### Scanning Scope:
 - only scans public ip addresses
 - Vulnerability data depends on the Shodan's database
 - Not all sevies may be identified
 
+---
+
 ## License
 [MIT LICENSE](https://github.com/Zareen1101/geolocator/edit/main/README.md)
+
+---
