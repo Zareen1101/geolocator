@@ -12,7 +12,7 @@ from collections import defaultdict
 TSHARK_PATH = r"D:\Wireshark\tshark.exe"
 PCAP_FILE = "network_capture.pcap"
 INTERFACE = "Wi-Fi"
-IPINFO_TOKEN = "d83dea9c5f2855"
+IPINFO_TOKEN = "###########"     #(enter the token number)
 
 def clean_ip(ip_str):
     """Sanitize and validate IP addresses"""
