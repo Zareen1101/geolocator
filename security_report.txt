@@ -1,9 +1,15 @@
-IP Geolocation Report
+IP SECURITY ASSESSMENT REPORT
 ========================================
-Total IPs: 3
-Countries: US, IN
+Generated: 2025-04-13 19:10:05.017299
+Total IPs analyzed: 5
+IPs with vulnerabilities: 0
+
+NETWORK SUMMARY:
+Countries: XX, US, SG, IN
 
 Top Organizations:
 org
-AS8075 Microsoft Corporation    2
-AS16509 Amazon.com, Inc.        1
+Unknown                           2
+AS16509 Amazon.com, Inc.          1
+AS62014 Telegram Messenger Inc    1
+AS8075 Microsoft Corporation      1
