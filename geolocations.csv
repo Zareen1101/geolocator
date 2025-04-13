@@ -1,4 +1,6 @@
-ip,city,region,country,org,lat,lon
-54.239.28.85,Ashburn,Virginia,US,"AS16509 Amazon.com, Inc.",39.0437,-77.4875
-104.208.16.91,Des Moines,Iowa,US,AS8075 Microsoft Corporation,41.6005,-93.6091
-20.207.73.82,Pune,Maharashtra,IN,AS8075 Microsoft Corporation,18.5196,73.8554
+ip,city,region,country,org,lat,lon,open_ports,services,vulnerabilities,vulnerability_details
+239.255.255.250,Unknown,Unknown,XX,Unknown,,,[],,0,[]
+224.0.0.251,Unknown,Unknown,XX,Unknown,,,[],,0,[]
+54.239.28.85,Ashburn,Virginia,US,"AS16509 Amazon.com, Inc.",39.0437,-77.4875,[],,0,[]
+91.108.56.179,Singapore,Singapore,SG,AS62014 Telegram Messenger Inc,1.3152,103.8455,[],,0,[]
+20.207.73.82,Pune,Maharashtra,IN,AS8075 Microsoft Corporation,18.5196,73.8554,[],,0,[]
