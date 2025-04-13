@@ -69,7 +69,7 @@ The script will:
 ## Output Samples
 
 ### Interactive Map
-![Map Preview](map_preview.png) *(example image)*
+![Demo pic](https://github.com/user-attachments/assets/56e30d77-c46e-4c0c-9808-7eb9cb85cd7c)
 
 ### CSV File
 csv
