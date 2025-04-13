@@ -1,0 +1,9 @@
+IP Geolocation Report
+========================================
+Total IPs: 3
+Countries: US, IN
+
+Top Organizations:
+org
+AS8075 Microsoft Corporation    2
+AS16509 Amazon.com, Inc.        1
