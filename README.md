@@ -98,7 +98,7 @@ Microsoft Corp.    2
 
 ## License
 
-MIT License - Free for personal and educational use
+[MIT License](https://github.com/Zareen1101/geolocator/blob/main/LICENSE)
 
 ## Contributing
 
